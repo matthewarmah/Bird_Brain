@@ -24,3 +24,4 @@ bird.setTurn('R',90,50)
 print("exercise 6")
 #1 inch = 2.54 centimeters 
 bird.setMove("F",27.94,100)
+#carti dropped
